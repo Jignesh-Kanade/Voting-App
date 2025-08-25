@@ -17,8 +17,6 @@ This is a backend application for a voting system where users can vote for candi
 - MongoDB
 - JSON Web Tokens (JWT) for authentication
 
-# API Endpoints
-
 ## Authentication
 
 ### Sign Up
